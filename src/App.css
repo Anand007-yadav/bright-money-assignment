@@ -1,0 +1,16 @@
+
+.App{
+    padding: 50px;
+}
+.heading{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.flexContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
